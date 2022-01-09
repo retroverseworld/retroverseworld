@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Co-founder of @retroverseworld
 - 👀 I'm looking for developers, designers, 2d and 3D artists, mathematicians, project managers to collaborate on this superhuman effort to recreate the past.
-- 📫 How to reach me ...
+- 📫 How to reach me ... DM me on twitter @retroverseworld, on telegram @fytureverse, on discord @retroverseworld 
 
 <!---
 Our aim is to make this a community project to build the most advanced Retroverse interactive metaverse platform in the world. 
